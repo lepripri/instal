@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/converter/</loc>
+    <loc>/instal/converter/</loc>
     <lastmod>2025-05-07</lastmod>
   </url>
   <url>
-    <loc>/converter/AMVConverter.zip</loc>
+    <loc>/instal/converter/AMVConverter.zip</loc>
     <lastmod>2025-05-07</lastmod>
   </url>
   <url>
-    <loc>/converter/Video Covert_Tools.exe</loc>
+    <loc>/instal/converter/Video Covert_Tools.exe</loc>
     <lastmod>2025-05-07</lastmod>
   </url>
 </urlset>
