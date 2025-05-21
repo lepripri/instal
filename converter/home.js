@@ -1,3 +1,4 @@
+var openAppClick = false;
 document.querySelector("button.conver-download").addEventListener("click", () => {
     document.querySelector("dialog.converter").showModal();
     document.querySelector("button.conver-download").setAttribute("hidden", "");
