@@ -17,7 +17,9 @@
         <script>
             document.querySelector("button").addEventListener("click",() => {
                 document.querySelector("h1.one").remove();
-                document.querySelector("h1.two").remove();
+                document.querySelector("button").remove();
+                document.querySelector("select").remove();
+                document.querySelector("h1.two").removeAttribute("hidden")
             });
         </script>
     </body>
